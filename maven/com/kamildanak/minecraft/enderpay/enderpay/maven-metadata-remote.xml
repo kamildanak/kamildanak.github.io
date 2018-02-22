@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.kamildanak.minecraft.enderpay</groupId>
+  <artifactId>enderpay</artifactId>
+  <versioning>
+    <release>1.12.2-1.0.1.0</release>
+    <versions>
+      <version>1.12.2-1.0.0.0</version>
+      <version>1.12.2-1.0.1.0</version>
+    </versions>
+    <lastUpdated>20180106141323</lastUpdated>
+  </versioning>
+</metadata>
